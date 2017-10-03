@@ -1,6 +1,7 @@
 .container {
     background-color: red;
     font-family: sans-serif;
+    margin:5px;
 }
 
 .img {
