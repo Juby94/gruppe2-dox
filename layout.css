@@ -6,6 +6,9 @@
 .img {
     width: 400px;
 }
-.præmis {background-color: white;
-opacity: 0.9;
-margin: 10px;}
+
+.lillecontainer {
+    background-color: white;
+    opacity: 0.9;
+    margin: 10px;
+}
